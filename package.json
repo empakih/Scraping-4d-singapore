@@ -1,0 +1,16 @@
+{
+  "name": "dns-query",
+  "version": "1.0.0",
+  "description": "dns query testing mode",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Me",
+  "license": "MIT",
+  "dependencies": {
+    "@leichtgewicht/dns-packet": "^6.0.3",
+    "node-fetch": "^3.3.2"
+  }
+}
